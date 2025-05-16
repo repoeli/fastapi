@@ -2,17 +2,17 @@
 This project is part of the WAES Full Stack Developer Industry Standard Bootcamp. The goal is to create a backend using FastAPI.
 
 ## Guide to Building this REST API with FastAPI
-
 ### Table of Contents
-1. [Prerequisites](#prerequisites)
-2. [Project Setup](#project-setup)
-3. [Running the FastAPI Server](#running-the-fastapi-server)
-4. [Testing the API Endpoints](#testing-the-api-endpoints)
-5. [Advanced Testing](#advanced-testing)
-    - [Parameter Validation](#parameter-validation)
-    - [Summation](#summation)
-6. [Logging Verification](#logging-verification)
-7. [Next Steps](#next-steps)
+
+1. [Prerequisites](#1-prerequisites)
+2. [Project Setup](#2-project-setup)
+3. [Running the FastAPI Server](#3-running-the-fastapi-server)
+4. [Testing the API Endpoints](#4-testing-the-api-endpoints)
+5. [Advanced Testing](#5-advanced-testing-parameter-validation--summation)
+    - [Parameter Validation](#5-advanced-testing-parameter-validation--summation)
+    - [Summation](#5-advanced-testing-parameter-validation--summation)
+6. [Logging Verification](#6-logging-verification)
+7. [Next Steps](#7-next-steps)
 
 
 # 1. Prerequisites
